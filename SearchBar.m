@@ -122,6 +122,7 @@
                     {
                         //NSMutableDictionary *tempResDict = [[NSMutableDictionary alloc] init];
                         [tempResArr addObject:tempDict];
+                        break;
                     }
                 }
             }
