@@ -6,14 +6,14 @@ IOS SearchBar. Compatible with IOS 6.0 and later, of course can compatible with 
 ## Example Usage
 
 ``` objective-c
-    SearchBar *barItem = [[SearchBar alloc] init];
-    barItem.frame = CGRectMake(0, 0, 320, 56);
-    AgendaTableView *atv = (AgendaTableView*)_swipeView.currentItemView;
-    barItem.searchReloadTableDelegate = atv;
-    barItem.listArr = atv.listArr;
-    barItem.listDic = atv.listDic;
+SearchBar *barItem = [[SearchBar alloc] init];
+barItem.frame = CGRectMake(0, 0, 320, 56);
+AgendaTableView *atv = (AgendaTableView*)_swipeView.currentItemView;
+barItem.searchReloadTableDelegate = atv;
+barItem.listArr = atv.listArr;
+barItem.listDic = atv.listDic;
     
-    [self.view addSubview:barItem];
+[self.view addSubview:barItem];
 ```
 
 License
