@@ -14,3 +14,6 @@ Example Usage
     
     [self.view addSubview:barItem];
     
+License
+=========
+SearchBar is available under the MIT license. See the LICENSE file for more info.
