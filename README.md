@@ -1,5 +1,4 @@
-SearchBar
-=========
+## SearchBar
 
 IOS SearchBar. Compatible with IOS 6.0 and later, of course can compatible with all the early version.
 
@@ -24,6 +23,5 @@ Hanson Yu
 - http://www.linkedin.com/in/hangzhongyu
 - hangzhong.yu@gmail.com
 
-License
-=========
+## License
 SearchBar is available under the MIT license. See the LICENSE file for more info.
