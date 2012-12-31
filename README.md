@@ -16,6 +16,13 @@ barItem.listDic = atv.listDic;
 [self.view addSubview:barItem];
 ```
 
+## Contact
+Hanson Yu
+
+- https://github.com/2hanson
+- http://www.linkedin.com/in/hangzhongyu
+- hangzhong.yu@gmail.com
+
 License
 =========
 SearchBar is available under the MIT license. See the LICENSE file for more info.
